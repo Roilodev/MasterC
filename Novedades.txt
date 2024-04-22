@@ -1,0 +1,11 @@
+
+* MODIFICACIÓN DE CAMBIOS PROVISIONALES EFECTUADOS EN QUINCENAS ANTERIORES.
+ Si desea realizar alguna modificación a alguno de los cambios provisionales realizados en quincenas anteriores, diríjase al apartado de "Cambios Provisionales" y presione clic derecho sobre el cambio a modificar. Este cambio modificado automáticamente formará parte del listado de los cambios provisionales de la quincena actual. 
+
+* MINIMIZAR MASTERC2 EN LA BANDEJA DEL SISTEMA.
+ Por cuestiones de seguridad, usted puede minimizar MasterC2 en la bandeja del sistema (Junto al reloj de Windows). Al hacerlo se creará un icono cerca del reloj del sistema con el logo de MasterC2. Si desea restaurar MasterC2, sólo presione clic derecho sobre el icono y seleccione "Abrir".
+
+* MENSAJERÍA ENTRE USUARIOS DE MASTERC2.
+ Si desea enviarle un mensaje a alguno de los usuarios conectados a masterC, diríjase al listado de usuarios conectados a MasterC2 y presione doble clic sobre el mismo. Lo demás no lleva explicación.
+
+\ fin.
